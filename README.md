@@ -40,7 +40,7 @@ Try all possibilities and choose the best one. Drawback: There are too many of t
 A method for solving optimization problems <br>
 DP is more efficient than other algorithms like greedy, divide and conquer, recursion,..<br>
 
-# Featured point of DP
+# Featured points of Dynamic Programming
 •	Get all the possible solution and pick up best and optimal solution.<br>
 •	Work on principal of optimality.<br>
 •	Define sub-parts and solve them using recursively.<br>
