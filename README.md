@@ -2,9 +2,9 @@
 optimized matrix multiplication Dynamic Programming - Python
 
 # Problem
-Input: a chain of matrices to be multiplied
-Output: a parenthesizing of the chain
-Objective: minimize number of steps needs for the multiplication
+Input: a chain of matrices to be multiplied<br>
+Output: a parenthesizing of the chain<br>
+Objective: minimize number of steps needs for the multiplication<br>
 
 Suppose that we want to multiply a sequence of rectangular matrices. In which order should we multiply?
  A x (BxC) or (AxB) x C
